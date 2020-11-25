@@ -4,6 +4,7 @@
 	# Filename:		Makefile
 	# Date:			11/25/2020
 	# Author:		Maha Siddique
+	# Course: 		CS3377.002
 	# Email:		mxs151731@utdallas.edu
 #Perkins makefile edited a bit
 # The compiler to use
