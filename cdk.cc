@@ -3,6 +3,7 @@
 	 * Date:        11/25/2020
 	 * Author:      Maha Siddique
 	 * Email:       mxs151731@utdallas.edu
+	 * Course: CS3377.002
 	 * About file: This file has the CDK Matrix in data records and displays all the headers
 	 */
 	 
