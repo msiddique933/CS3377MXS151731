@@ -3,6 +3,7 @@
 * Date: 11/25/2020
 * Author: Maha Siddiuqe
 * Email: mxs151731@utdallas.edu
+* Course: CS3377.002
 * Description: This is the header file
 */
 
